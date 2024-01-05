@@ -2,7 +2,7 @@
 
 ---
 
-A customizable Vue 3 component for creating loading shimmer effects
+A customizable Vue 3 component for creating loading shimmer effects.
 
 ## Documentation
 
